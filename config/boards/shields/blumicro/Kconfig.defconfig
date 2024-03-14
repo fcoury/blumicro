@@ -1,0 +1,6 @@
+if SHIELD_BLUMICRO
+
+config ZMK_KEYBOARD_NAME
+  default "BluMicro"
+
+endif
